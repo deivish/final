@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "7c95d57b-8844-4a4d-8b86-7d45d066a6e8",
+		"name": "verificacion postman",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "21204297"
+	},
+	"item": [
+		{
+			"name": "prueba con Get",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "prueba con Post",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
